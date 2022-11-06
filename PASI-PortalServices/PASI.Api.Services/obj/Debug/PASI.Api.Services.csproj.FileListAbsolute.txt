@@ -1,0 +1,6 @@
+C:\Repos\PASI-PortalServices\PASI.Api.Services\bin\Debug\PASI.Api.Services.dll
+C:\Repos\PASI-PortalServices\PASI.Api.Services\bin\Debug\PASI.Api.Services.pdb
+C:\Repos\PASI-PortalServices\PASI.Api.Services\obj\Debug\PASI.Api.Services.csproj.AssemblyReference.cache
+C:\Repos\PASI-PortalServices\PASI.Api.Services\obj\Debug\PASI.Api.Services.csproj.CoreCompileInputs.cache
+C:\Repos\PASI-PortalServices\PASI.Api.Services\obj\Debug\PASI.Api.Services.dll
+C:\Repos\PASI-PortalServices\PASI.Api.Services\obj\Debug\PASI.Api.Services.pdb

@@ -1,0 +1,8 @@
+PASI-PortalServices
+PASI.Api.Application
+PASI.Api.Services
+
+- O que é Entity Framework?
+- O swagger é proveniente do Entity?
+- Qual é o caminho que a aplicação percorre para iniciar?
+- Como fazer a publicação de uma aplicação .NET?
